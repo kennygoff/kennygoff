@@ -1,3 +1,6 @@
-### Hey! 👋
+# Kenny Goff
 
-I’m Kenny, a web developer and indie game developer. I love using Gatsby, React, Javascript, and Haxe. I work at [Dashlane](https://dashlane.com) as a Senior Software Engineer and I run an indie games studio [Inwave Labs](https://inwavelabs.com).
+Hello! My name is Kenny. I'm a creative developer. I run an independent software company called [Inwave Labs](https://inwavelabs.com) where I build products, games, apps and websites. I work mostly with React and TypeScript on the web and my current framework of choice is Remix.
+
+&rarr; [kennygoff.com](https://kennygoff.com)<br />
+&rarr; [inwavelabs.com](https://inwavelabs.com)
